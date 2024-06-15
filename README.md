@@ -11,8 +11,7 @@ Reset Functionality: Resets the system to its initial state for testing purposes
 
 Installation:
 Clone the repository from GitHub:
-git clone https://github.com/CapMushi/banking-token-management.git
-
+git clone https://github.com/CapMushi/Banking-Token-Management-System.git
 Usage
   Open the project in Logic Works.
   Load the main file 
